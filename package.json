@@ -17,7 +17,7 @@
     "@react-native-community/image-editor": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-image-pan-zoom": "*"
+    "react-native-image-pan-zoom": "https://github.com/wanderbon/react-native-image-zoom.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "@react-native-community/image-editor": "*",
-    "react-native-image-pan-zoom": "*"
+    "react-native-image-pan-zoom": "https://github.com/wanderbon/react-native-image-zoom.git"
   }
 }
