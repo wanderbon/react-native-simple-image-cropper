@@ -2,11 +2,7 @@
   "name": "react-native-simple-image-cropper",
   "version": "2.0.1",
   "description": "",
-  "main": "build/index.js",
-  "scripts": {
-    "dev": "babel src -d example/cropper --watch",
-    "build": "babel src -d build"
-  },
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/barrsan/react-native-simple-image-cropper.git"
